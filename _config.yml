@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# http://jekyllrb.com/docs/configuration/
+title: Steve Moser
+email: # TODO: Replace with contact form
+description: > 
+  iOS Developer. Bikeshedder. Functionalist. Semantist. Wash. Rinse. Repeat.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://stevemoser.org" # the base hostname & protocol for your site
+twitter_username: stevemoser
+github_username:  stevemoser
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet # more like github - http://ajoz.github.io/2014/06/29/i-want-my-github-flavored-markdown/
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
