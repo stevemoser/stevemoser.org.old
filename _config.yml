@@ -11,6 +11,7 @@ twitter_username: stevemoser
 github_username:  stevemoser
 
 # Build settings
+exclude: [vendor]
 markdown: redcarpet # more like github - http://ajoz.github.io/2014/06/29/i-want-my-github-flavored-markdown/
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
