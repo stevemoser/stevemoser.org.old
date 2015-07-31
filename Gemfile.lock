@@ -19,9 +19,6 @@ GEM
       sass (~> 3.2)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
-    jgd (1.6.2)
-      jekyll (>= 1.5.1)
-      trollop (= 2.0)
     kramdown (1.8.0)
     liquid (3.0.6)
     listen (2.10.1)
@@ -29,6 +26,9 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
+    rake (10.4.2)
+    rake-jekyll (1.0.4)
+      rake (~> 10.0)
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -38,14 +38,14 @@ GEM
     sass (3.4.16)
     timers (4.0.1)
       hitimes
-    trollop (2.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   jekyll (>= 3.0.0.pre.beta8)
-  jgd
+  rake
+  rake-jekyll
   redcarpet
 
 BUNDLED WITH
