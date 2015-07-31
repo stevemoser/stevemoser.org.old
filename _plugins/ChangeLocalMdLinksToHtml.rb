@@ -7,7 +7,7 @@ module ChangeLocalMdLinksToHtml
       site.posts.each { |p| rewrite_links(site, p) }
     end
     def rewrite_links(site, post)
-       post.content = post.content.gsub(/(\[[^\]]*\]\([^:\)]*)\.markdown\)/, '\1)')
+       post.content = post.content.gsub(/(\[[^\]]*\]\([^:\)]*)\.md\)/, '\1)')
        
     end
   end
