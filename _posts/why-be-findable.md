@@ -4,7 +4,7 @@ title: "Why be Findable?"
 date: 2015-07-29 08:00:01 -0400
 author: Steve Moser
 uti: org.stevemoser.public
-tags: [privacy]
+tags: [privacy, reputation]
 uuid: 3D105687-C56D-416E-93B4-93F3A6AFCE79
 ---
 
