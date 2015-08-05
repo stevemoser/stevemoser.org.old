@@ -9,7 +9,6 @@ module ChangeLocalMdLinksToHtml
     end
     def rewrite_links(site, item)
        item.content = item.content.gsub(/(\[[^\]]*\]\([^:\)]*)\.md\)/, '\1)')
-       puts item
     end
   end
 end

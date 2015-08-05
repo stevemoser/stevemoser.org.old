@@ -20,7 +20,11 @@ Here are a few good starting points for exploring content here:
 
  - [Why be findable?](why-be-findable.md)
  - [Bliki architecture](bliki-architectre.md)
- 
+
+#### Categories
+
+- [Computing](computing/README.md)
+
 #### Stubs
 
 There may be links to posts with little or no content and that is okay. This allows me to write about things as deep or broad as I want to go and come back and flesh out the in-between pages later. Normally this would lead to a mess with a normal blog but hopefully most people don't consume this site like a normal blog.
