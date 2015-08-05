@@ -6,8 +6,8 @@
 </description>
     <link>http://stevemoser.org/</link>
     <atom:link href="http://stevemoser.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2015 01:50:39 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2015 01:50:39 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2015 02:13:05 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2015 02:13:05 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0.pre.beta8</generator>
     
       <item>
@@ -29,35 +29,8 @@
 &lt;p&gt;Hosting your website can be fairly cheap as well or even free. Though if you go the free route you may have to put up with some ads. When considering where to host your site you will want to consider how hands on you want to be. For most people Tumblr, &lt;a href=&quot;http://www.wordpress.com&quot;&gt;Wordpress&lt;/a&gt; and the excellent &lt;a href=&quot;http://www.squarespace.com&quot;&gt;Squarespace&lt;/a&gt; are the way to go and they all you to easily buy and connect a domain name to your website. If you want more control then you can find a host that allows you to upload your site code to their servers and you will have to pay or less on how dynamic you want your website to. I prefer lots of control and static sites for most of my websites and thus I use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; not only for their free hosting but also because it allows others to submit improvements to my site that I can approve with the click of a single button.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jul 2015 12:00:02 +0000</pubDate>
-        <link>http://stevemoser.org/posts/tech/create-your-own-site</link>
-        <guid isPermaLink="true">http://stevemoser.org/posts/tech/create-your-own-site</guid>
-        
-        <category>reputation</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Create Your Own Site</title>
-        <description>&lt;p&gt;So you have decided you need to create your own site. I created one is because it is cheap, easy, and fun. Let&amp;#39;s face it, most of us won&amp;#39;t be famous because of a website we created about our interests but I don&amp;#39;t think that is why most people create a website about themselves. I think &lt;strong&gt;the main reason people create websites is to &lt;a href=&quot;why-be-findable&quot;&gt;be findable&lt;/a&gt;.&lt;/strong&gt; In either case creating your own site shouldn&amp;#39;t be overwhelming.&lt;/p&gt;
-
-&lt;h4&gt;Ownership&lt;/h4&gt;
-
-&lt;p&gt;What do I mean by your &lt;strong&gt;own&lt;/strong&gt; site? I mean a place where you can post content where you own the domain name. This is important because all the content you post increases the owner&amp;#39;s search rankings. So while &lt;a href=&quot;http://www.myawesomesite.tumblr.com&quot;&gt;www.myawesomesite.tumblr.com&lt;/a&gt; might be &lt;em&gt;free&lt;/em&gt; to create it definitely isn&amp;#39;t your own site. That&amp;#39;s not to say that you shouldn&amp;#39;t use &lt;a href=&quot;http://www.tumblr.com&quot;&gt;Tumblr&lt;/a&gt;, just that you should buy a domain name pointing to where your content is hosted mostly because then you get all the Google juice. You also want to own your domain name so that a business shutting down or censorship (outside of ICANN) doesn&amp;#39;t prevent people from finding you.&lt;/p&gt;
-
-&lt;h4&gt;Domains&lt;/h4&gt;
-
-&lt;p&gt;Domains are about $10-$15 a year and are the cheapest investment in managing your online reputation. The other great thing about owning your own site and consequently your own domain is that you can use that domain for a professional looking email address because domain names in email address do &lt;a href=&quot;http://lifehacker.com/5447335/know-what-your-email-address-says-about-you&quot;&gt;communicate something about you&lt;/a&gt;. The easiest way to set that up is through &lt;a href=&quot;https://www.google.com/work/apps/business/&quot;&gt;Google Apps for Work&lt;/a&gt; or &lt;a href=&quot;https://www.fastmail.com&quot;&gt;FastMail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Picking a domain name is easy if you are considering using your name. Just see if your first and last name or just last name is available with any popular top level domain such as .com, .net, .org, .co etc.&lt;/p&gt;
-
-&lt;h4&gt;Hosting&lt;/h4&gt;
-
-&lt;p&gt;Hosting your website can be fairly cheap as well or even free. Though if you go the free route you may have to put up with some ads. When considering where to host your site you will want to consider how hands on you want to be. For most people Tumblr, &lt;a href=&quot;http://www.wordpress.com&quot;&gt;Wordpress&lt;/a&gt; and the excellent &lt;a href=&quot;http://www.squarespace.com&quot;&gt;Squarespace&lt;/a&gt; are the way to go and they all you to easily buy and connect a domain name to your website. If you want more control then you can find a host that allows you to upload your site code to their servers and you will have to pay or less on how dynamic you want your website to. I prefer lots of control and static sites for most of my websites and thus I use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; not only for their free hosting but also because it allows others to submit improvements to my site that I can approve with the click of a single button.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Jul 2015 12:00:02 +0000</pubDate>
-        <link>http://stevemoser.org/posts/create-your-own-site</link>
-        <guid isPermaLink="true">http://stevemoser.org/posts/create-your-own-site</guid>
+        <link>http://stevemoser.org/posts/computing/create-your-own-site</link>
+        <guid isPermaLink="true">http://stevemoser.org/posts/computing/create-your-own-site</guid>
         
         <category>reputation</category>
         
@@ -72,7 +45,7 @@
 
 &lt;p&gt;Once an entity is found there are a variety of actions they desire users to take including nothing. While that might sound crazy especially if good money is spent on being findable. However I think it is a valid desire if only because being findable at one point in time is an investment for the future of wanting a user to take more action or at least it is according to search engines that rank older sites better than newer sites.&lt;/p&gt;
 
-&lt;p&gt;I think the reason most individuals spend time and money on being findable is to &lt;strong&gt;demonstrate expertise&lt;/strong&gt; whether that is professional or recreational. The easiest and cheapest way to do that today is by being findable on the Internet. The quickest way to do that is to create a social media account and upload some content. But if you want to own your online reputation then you need to &lt;a href=&quot;tech/create-your-own-site&quot;&gt;create your own site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I think the reason most individuals spend time and money on being findable is to &lt;strong&gt;demonstrate expertise&lt;/strong&gt; whether that is professional or recreational. The easiest and cheapest way to do that today is by being findable on the Internet. The quickest way to do that is to create a social media account and upload some content. But if you want to own your online reputation then you need to &lt;a href=&quot;computing/create-your-own-site&quot;&gt;create your own site&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jul 2015 12:00:01 +0000</pubDate>
         <link>http://stevemoser.org/posts/why-be-findable</link>
