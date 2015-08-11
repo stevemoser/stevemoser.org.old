@@ -6,17 +6,78 @@
 </description>
     <link>http://stevemoser.org/</link>
     <atom:link href="http://stevemoser.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2015 03:21:52 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2015 03:21:52 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2015 03:33:48 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2015 03:33:48 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0.pre.beta8</generator>
     
       <item>
-        <title>Publish Your Public Memex</title>
-        <description>&lt;p&gt;I make static sites for most of my websites and thus I use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; not only for their free hosting but also because it allows others to submit improvements to my site that I can approve with the click of a single button.&lt;/p&gt;
+        <title>README</title>
+        <description></description>
+        <pubDate>Tue, 11 Aug 2015 02:03:25 +0000</pubDate>
+        <link>http://stevemoser.org/posts/programming/README</link>
+        <guid isPermaLink="true">http://stevemoser.org/posts/programming/README</guid>
+        
+        <category>programming</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>README</title>
+        <description>&lt;p&gt;Posts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;why-be-findable&quot;&gt;Why be findable?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 11 Aug 2015 02:02:25 +0000</pubDate>
+        <link>http://stevemoser.org/posts/sociology/README</link>
+        <guid isPermaLink="true">http://stevemoser.org/posts/sociology/README</guid>
+        
+        <category>sociology</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>README</title>
+        <description>&lt;p&gt;Encompasses everything about developing for Apple platforms such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cocoa&lt;/li&gt;
+&lt;li&gt;Objective-C&lt;/li&gt;
+&lt;li&gt;Swift&lt;/li&gt;
+&lt;li&gt;Xcode&lt;/li&gt;
+&lt;li&gt;OS X&lt;/li&gt;
+&lt;li&gt;iOS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 11 Aug 2015 01:57:11 +0000</pubDate>
+        <link>http://stevemoser.org/posts/apple-dev/README</link>
+        <guid isPermaLink="true">http://stevemoser.org/posts/apple-dev/README</guid>
+        
+        <category>apple-dev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Syndicated Memex</title>
+        <description>&lt;p&gt;A syndicated Memex is simply a collaborative hypertext based system used as personal knowledge base with published updates in reverse chronological order. Others might call it a &lt;a href=&quot;http://www.martinfowler.com/bliki/WhatIsaBliki.html&quot;&gt;bliki&lt;/a&gt; which Martin Fowler attributes to Ward Cunningham, the father of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Wiki&quot;&gt;wiki&lt;/a&gt;. But &lt;a href=&quot;https://en.wikipedia.org/wiki/Memex&quot;&gt;Memex&lt;/a&gt; is a better sounding postmanteau.&lt;/p&gt;
+
+&lt;p&gt;First a bit of history. The first non-analog system I used for storing notes was OneNote back when Windows Tablet PCs were popular. It actually had decent handwriting recognition which was useful when taking notes in engineering classes were diagrams and math equations were the norm. However as my studies moved to Computer Science I started using Linux more since not only was our homework about unix systems but we had to submit our homework on a unix based machine. I briefly used Tomboy and valued the idea of portable plaintext notes before deciding that it wasn&amp;#39;t the year of the Linux desktop and picked up a MacBook. I gave &lt;a href=&quot;https://plausible.coop/voodoopad/&quot;&gt;VoodooPad&lt;/a&gt; a go and it seemed like a great note taking system until I couldn&amp;#39;t stand not having an iPhone app to go with. Next I tried &lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvAlt&lt;/a&gt; paired with Simplenote which got me started on adding simple markup to my notes in the form of &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;From then on I marked up all my notes with Markdown and I was interested in linking my notes together and accessing them online. GitHub&amp;#39;s wiki powered by Gollum was a great solution and made me realize how nice it is to have multi-folder support which nvAlt doesn&amp;#39;t have. I considered running multiple instances of nvAlt or even running Gollum locally when I found Github&amp;#39;s support for &lt;a href=&quot;https://help.github.com/articles/relative-links-in-readmes/&quot;&gt;Relative links in READMEs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was conflicted because I preferred wiki markup syntax over the regular markup syntax because it represents the semantics of what I want more which is links between documents regardless of if the documents are rendered or not. However there is much wider support for &lt;a href=&quot;https://help.github.com/articles/adding-links-to-wikis/&quot;&gt;regular markup syntax style links&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So now that I could edit and link my notes locally and online the next step was to publish them. A static site generated by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and hosted on &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; seemed like the way to go not only for their free hosting but also because it allows others to submit improvements to my site that I can approve with the click of a single button. However Jekyll doesn&amp;#39;t support wiki markup syntax and it does a literal conversion of regular markup syntax which means a link to this page which looks like &lt;code&gt;[Syndicated Memex](syndicated-memex)&lt;/code&gt; works fine locally but breaks when rendered on my site because my permalinks don&amp;#39;t end with &lt;code&gt;.md&lt;/code&gt;. I also took issue with Jekyll&amp;#39;s philosophy that posts must have a date in the filename so I set off looking for other static site generators knowing that I would give up GitHub Page&amp;#39;s &lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages/&quot;&gt;automatic building of Jekyll based repos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I checked out a few static site generators and landed on &lt;a href=&quot;https://middlemanapp.com&quot;&gt;Middleman&lt;/a&gt;. It seemed to do most of what I needed except I ran into few issues with permalinks and general blogging support that Jekyll had in spades. I decided it was easier to modify Jekyll through its plugin system and monkey patching. I still needed to automatically generate the site whenever I pushed a commit to my site repo so I setup Travis CI. Now I can finally edit and publish my portable plaintext notes marked up in Markdown with support for relative links.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Aug 2015 03:19:14 +0000</pubDate>
-        <link>http://stevemoser.org/posts/computing/publish-your-public-memex</link>
-        <guid isPermaLink="true">http://stevemoser.org/posts/computing/publish-your-public-memex</guid>
+        <link>http://stevemoser.org/posts/computing/syndicated-memex</link>
+        <guid isPermaLink="true">http://stevemoser.org/posts/computing/syndicated-memex</guid>
         
         <category>computing</category>
         
@@ -35,7 +96,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;create-your-own-site&quot;&gt;Create Your Own Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 05 Aug 2015 02:30:55 +0000</pubDate>
@@ -51,7 +111,7 @@
     
       <item>
         <title>Create Your Own Site</title>
-        <description>&lt;p&gt;So you have decided you need to create your own site. I created one is because it is cheap, easy, and fun. Let&amp;#39;s face it, most of us won&amp;#39;t be famous because of a website we created about our interests but I don&amp;#39;t think that is why most people create a website about themselves. I think &lt;strong&gt;the main reason people create websites is to &lt;a href=&quot;../why-be-findable&quot;&gt;be findable&lt;/a&gt;.&lt;/strong&gt; In either case creating your own site shouldn&amp;#39;t be overwhelming.&lt;/p&gt;
+        <description>&lt;p&gt;So you have decided you need to create your own site. I created one is because it is cheap, easy, and fun. Let&amp;#39;s face it, most of us won&amp;#39;t be famous because of a website we created about our interests but I don&amp;#39;t think that is why most people create a website about themselves. I think &lt;strong&gt;the main reason people create websites is to &lt;a href=&quot;../sociology/why-be-findable&quot;&gt;be findable&lt;/a&gt;.&lt;/strong&gt; In either case creating your own site shouldn&amp;#39;t be overwhelming.&lt;/p&gt;
 
 &lt;h4&gt;Ownership&lt;/h4&gt;
 
@@ -69,7 +129,7 @@
 
 &lt;h4&gt;More Control&lt;/h4&gt;
 
-&lt;p&gt;If you want more control then you can find a host that allows you to upload your site code to their servers and you will have to pay more or less depending on how dynamic you want your website to. I prefer lots of control and &lt;a href=&quot;http://ben.balter.com/2013/09/16/treat-data-as-code/&quot;&gt;treat my data as code&lt;/a&gt; thus my site is an &lt;strong&gt;easily editable, collaborative, testable, simple (not easy), offline friendly, customizable static site&lt;/strong&gt;. If you are curious what that is all about then take the red pill see how you can &lt;a href=&quot;publish-your-public-memex&quot;&gt;publish your public memex&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want more control then you can find a host that allows you to upload your site code to their servers and you will have to pay more or less depending on how dynamic you want your website to. I prefer lots of control and &lt;a href=&quot;http://ben.balter.com/2013/09/16/treat-data-as-code/&quot;&gt;treat my data as code&lt;/a&gt; thus my site is an &lt;strong&gt;easily editable, collaborative, testable, simple (not easy), offline friendly, customizable static site&lt;/strong&gt;. If you are curious what that is all about then take the red pill see how you can create your own &lt;a href=&quot;syndicated-memex&quot;&gt;syndicated memex&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jul 2015 12:00:02 +0000</pubDate>
         <link>http://stevemoser.org/posts/computing/create-your-own-site</link>
@@ -88,11 +148,11 @@
 
 &lt;p&gt;Once an entity is found there are a variety of actions they desire users to take including nothing. While that might sound crazy especially if good money is spent on being findable. However I think it is a valid desire if only because being findable at one point in time is an investment for the future of wanting a user to take more action or at least it is according to search engines that rank older sites better than newer sites.&lt;/p&gt;
 
-&lt;p&gt;I think the reason most individuals spend time and money on being findable is to &lt;strong&gt;demonstrate expertise&lt;/strong&gt; whether that is professional or recreational. The easiest and cheapest way to do that today is by being findable on the Internet. The quickest way to do that is to create a social media account and upload some content. But if you want to own your online reputation then you need to &lt;a href=&quot;computing/create-your-own-site&quot;&gt;create your own site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I think the reason most individuals spend time and money on being findable is to &lt;strong&gt;demonstrate expertise&lt;/strong&gt; whether that is professional or recreational. The easiest and cheapest way to do that today is by being findable on the Internet. The quickest way to do that is to create a social media account and upload some content. But if you want to own your online reputation then you need to &lt;a href=&quot;../computing/create-your-own-site&quot;&gt;create your own site&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jul 2015 12:00:01 +0000</pubDate>
-        <link>http://stevemoser.org/posts/why-be-findable</link>
-        <guid isPermaLink="true">http://stevemoser.org/posts/why-be-findable</guid>
+        <link>http://stevemoser.org/posts/sociology/why-be-findable</link>
+        <guid isPermaLink="true">http://stevemoser.org/posts/sociology/why-be-findable</guid>
         
         <category>privacy</category>
         
@@ -105,25 +165,26 @@
         <title>README</title>
         <description>&lt;h1&gt;&lt;a href=&quot;http://stevemoser.org/&quot;&gt;stevemoser.org&lt;/a&gt;&lt;/h1&gt;
 
-&lt;!--- # TODO: insert badges here --&gt;
+&lt;p&gt;&lt;img src=&quot;https://travis-ci.org/stevemoser/stevemoser.org.svg?branch=master&quot; alt=&quot;travis ci badge&quot;&gt;&lt;/p&gt;
 
-&lt;!--- # TODO: create bliki post and link --&gt;
-
-&lt;p&gt;Welcome to my blog/wiki or bliki. It is currently formatted in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;, generated by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, built by &lt;a href=&quot;https://travis-ci.org/stevemoser/stevemoser.org&quot;&gt;Travis CI&lt;/a&gt; and hosted on &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;. You can also &lt;a href=&quot;https://github.com/stevemoser/stevemoser.org&quot;&gt;view it on GitHub&lt;/a&gt;. If you see room for improvement (even just a typo) please use the edit button above and submit a pull request.&lt;/p&gt;
+&lt;p&gt;Welcome to my blog/wiki/bliki/memex. It is currently formatted in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;, generated by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, built by &lt;a href=&quot;https://travis-ci.org/stevemoser/stevemoser.org&quot;&gt;Travis CI&lt;/a&gt; and hosted on &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;. You can also &lt;a href=&quot;https://github.com/stevemoser/stevemoser.org&quot;&gt;view it on GitHub&lt;/a&gt;. If you see room for improvement (even just a typo) please use the edit button above and submit a pull request.&lt;/p&gt;
 
 &lt;h4&gt;Starting Point&lt;/h4&gt;
 
 &lt;p&gt;Here are a few good starting points for exploring content here:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;why-be-findable&quot;&gt;Why be findable?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;bliki-architectre&quot;&gt;Bliki architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;sociology/why-be-findable&quot;&gt;Why be findable?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;syndicated-memex&quot;&gt;Syndicated Memex&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;Categories&lt;/h4&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;apple-dev/README&quot;&gt;Apple Development&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;computing/README&quot;&gt;Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;sociology/README&quot;&gt;Sociology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;programming/README&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4&gt;Stubs&lt;/h4&gt;
@@ -134,7 +195,7 @@
 
 &lt;!--- # TODO: create blog background post and link --&gt;
 
-&lt;!--- # TODO: List tags and categories --&gt;
+&lt;!--- # TODO: List tags --&gt;
 </description>
         <pubDate>Wed, 29 Jul 2015 12:00:00 +0000</pubDate>
         <link>http://stevemoser.org/posts/README</link>
