@@ -1,5 +1,5 @@
 ---
-title: "Computing"
+title: "Computing README"
 date: 2015-08-04 22:30:55 -0400
 author: Steve Moser
 uti: org.stevemoser.public
