@@ -8,7 +8,7 @@ tags: [reputation]
 uuid: 26F16ED7-8682-4E0B-9B36-A1B6E90F0F9C
 ---
 
-So you have decided you need to create your own site. I created one is because it is cheap, easy, and fun. Let's face it, most of us won't be famous because of a website we created about our interests but I don't think that is why most people create a website about themselves. I think **the main reason people create websites is to [be findable](../why-be-findable.md).** In either case creating your own site shouldn't be overwhelming.
+So you have decided you need to create your own site. I created one is because it is cheap, easy, and fun. Let's face it, most of us won't be famous because of a website we created about our interests but I don't think that is why most people create a website about themselves. I think **the main reason people create websites is to [be findable](../sociology/why-be-findable.md).** In either case creating your own site shouldn't be overwhelming.
 
 #### Ownership
 
@@ -26,4 +26,4 @@ Hosting your website can be fairly cheap as well or even free. Though if you go 
 
 #### More Control
 
-If you want more control then you can find a host that allows you to upload your site code to their servers and you will have to pay more or less depending on how dynamic you want your website to. I prefer lots of control and [treat my data as code](http://ben.balter.com/2013/09/16/treat-data-as-code/) thus my site is an **easily editable, collaborative, testable, simple (not easy), offline friendly, customizable static site**. If you are curious what that is all about then take the red pill see how you can [publish your public memex](publish-your-public-memex.md).
+If you want more control then you can find a host that allows you to upload your site code to their servers and you will have to pay more or less depending on how dynamic you want your website to. I prefer lots of control and [treat my data as code](http://ben.balter.com/2013/09/16/treat-data-as-code/) thus my site is an **easily editable, collaborative, testable, simple (not easy), offline friendly, customizable static site**. If you are curious what that is all about then take the red pill see how you can create your own [syndicated memex](syndicated-memex.md).
