@@ -6,12 +6,12 @@
 </description>
     <link>http://stevemoser.org/</link>
     <atom:link href="http://stevemoser.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2015 03:33:48 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2015 03:33:48 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2015 03:36:23 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2015 03:36:23 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0.pre.beta8</generator>
     
       <item>
-        <title>README</title>
+        <title>Programming README</title>
         <description></description>
         <pubDate>Tue, 11 Aug 2015 02:03:25 +0000</pubDate>
         <link>http://stevemoser.org/posts/programming/README</link>
@@ -23,7 +23,7 @@
       </item>
     
       <item>
-        <title>README</title>
+        <title>Sociology README</title>
         <description>&lt;p&gt;Posts:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -40,7 +40,7 @@
       </item>
     
       <item>
-        <title>README</title>
+        <title>Apple Development README</title>
         <description>&lt;p&gt;Encompasses everything about developing for Apple platforms such as:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -91,7 +91,7 @@
       </item>
     
       <item>
-        <title>Computing</title>
+        <title>Computing README</title>
         <description>&lt;h3&gt;Popular Computing Posts&lt;/h3&gt;
 
 &lt;ul&gt;
