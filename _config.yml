@@ -11,6 +11,13 @@ twitter_username: stevemoser
 github_username:  stevemoser
 
 # Build settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
 include: ['_pages']
 exclude: [vendor, 'Gemfile', 'Gemfile.lock', 'Rakefile']
 markdown: redcarpet # more like github - http://ajoz.github.io/2014/06/29/i-want-my-github-flavored-markdown/

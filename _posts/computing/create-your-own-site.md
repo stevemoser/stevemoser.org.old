@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Create Your Own Site"
 date: 2015-07-29 08:00:02 -0400
 author: Steve Moser
