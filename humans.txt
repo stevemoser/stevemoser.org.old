@@ -1,0 +1,11 @@
+/* MAIN */
+  Author: Steve Moser
+  Twitter: @stevemoser
+  GitHub: stevemoser
+  Site: http://www.stevemoser.org
+
+/* SITE */
+  Doctype: HTML5
+  Generator: Jekyll
+  Host: GitHub Pages
+  IDE: Sublime, MacDown
