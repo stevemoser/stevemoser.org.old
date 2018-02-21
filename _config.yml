@@ -4,7 +4,7 @@ title: Steve Moser
 email: # TODO: Replace with contact form
 description: > 
   iOS Developer. Bikeshedder. Functionalist. Semantist. Wash. Rinse. Repeat.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/stevemoser.org.old" # the subpath of your site, e.g. /blog
 permalink: posts/:title
 url: "http://stevemoser.org" # the base hostname & protocol for your site
 twitter_username: stevemoser
